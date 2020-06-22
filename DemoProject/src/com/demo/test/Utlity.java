@@ -6,6 +6,8 @@ public class Utlity {
 
 	public Date getDate()
 	{
+		System.out.println("Returning the date");
 		return new Date();
 	}
+	
 }
